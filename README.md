@@ -1,1 +1,1 @@
-# 2ª Parcial 2Bi Banco RN
+# 2ª Parcial para o 2º Bimestre Banco RN
