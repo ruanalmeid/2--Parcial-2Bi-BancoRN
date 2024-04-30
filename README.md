@@ -1,1 +1,1 @@
-# 2--Parcial-2Bi-BancoRN
+# 2ª-Parcial-2Bi-BancoRN
